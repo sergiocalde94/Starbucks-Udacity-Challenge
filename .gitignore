@@ -1,0 +1,10 @@
+.idea
+__pycache__
+mlruns
+notebooks/.ipynb_checkpoints
+notebooks/catboost_info
+.pytest_cache
+notebooks/cb_model.json
+.in
+.out
+*.py[cod]

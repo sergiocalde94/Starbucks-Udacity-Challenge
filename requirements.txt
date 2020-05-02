@@ -1,0 +1,9 @@
+joblib==0.14.1
+pandas==1.0.3
+pandas_profiling==2.6.0
+plotly==4.6.0
+catboost==0.22
+plotly_express==0.4.1
+pytest==5.4.1
+mlflow==1.8.0
+scikit_learn==0.22.2.post1
